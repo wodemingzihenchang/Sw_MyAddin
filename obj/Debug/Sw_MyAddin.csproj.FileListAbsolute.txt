@@ -1,0 +1,14 @@
+D:\Mylearn\C#\01-SW API\sw-MyAddin\bin\Debug\Sw_MyAddin.dll
+D:\Mylearn\C#\01-SW API\sw-MyAddin\bin\Debug\Sw_MyAddin.pdb
+D:\Mylearn\C#\01-SW API\sw-MyAddin\bin\Debug\Sw_MyAddin.tlb
+D:\Mylearn\C#\01-SW API\sw-MyAddin\bin\Debug\SolidWorks.Visualize.Interfaces.dll
+D:\Mylearn\C#\01-SW API\sw-MyAddin\bin\Debug\SolidWorksTools.dll
+D:\Mylearn\C#\01-SW API\sw-MyAddin\obj\Debug\Sw_MyAddin.csproj.AssemblyReference.cache
+D:\Mylearn\C#\01-SW API\sw-MyAddin\obj\Debug\Sw_MyAddin.other.Setting.resources
+D:\Mylearn\C#\01-SW API\sw-MyAddin\obj\Debug\Sw_MyAddin.进度条.resources
+D:\Mylearn\C#\01-SW API\sw-MyAddin\obj\Debug\Sw_MyAddin.Properties.Resources.resources
+D:\Mylearn\C#\01-SW API\sw-MyAddin\obj\Debug\Sw_MyAddin.csproj.GenerateResource.cache
+D:\Mylearn\C#\01-SW API\sw-MyAddin\obj\Debug\Sw_MyAddin.csproj.CoreCompileInputs.cache
+D:\Mylearn\C#\01-SW API\sw-MyAddin\obj\Debug\Sw_MyAddin.csproj.CopyComplete
+D:\Mylearn\C#\01-SW API\sw-MyAddin\obj\Debug\Sw_MyAddin.dll
+D:\Mylearn\C#\01-SW API\sw-MyAddin\obj\Debug\Sw_MyAddin.pdb
