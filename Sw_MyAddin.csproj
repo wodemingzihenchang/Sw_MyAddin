@@ -163,6 +163,7 @@
     <Compile Include="SLDASM\GetSelectedCount.cs" />
     <Compile Include="SLDASM\Ordering.cs" />
     <Compile Include="SLDDRW\SW_Layer.cs" />
+    <Compile Include="SLDDRW\SW_RenameDrawing.cs" />
     <Compile Include="SLDPRT\Combined_Entity.cs" />
     <Compile Include="SLDPRT\DeFeatrue.cs" />
     <Compile Include="SLDPRT\SW_Bounding.cs" />

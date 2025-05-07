@@ -49,7 +49,8 @@ namespace Sw_MyAddin.other
             "3图层颜色分层",
             "4零部件排序",
             "5保存成单配置",
-            "6零部件写入属性"});
+            "6零部件写入属性",
+            "6带图纸重命名"});
             this.checkedListBox1.Location = new System.Drawing.Point(12, 40);
             this.checkedListBox1.Name = "checkedListBox1";
             this.checkedListBox1.Size = new System.Drawing.Size(198, 196);

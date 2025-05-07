@@ -230,6 +230,7 @@ namespace Sw_MyAddin
             int cmdIndex4 = cmdGroup.AddCommandItem2("零部件排  序", -1, "零部件排  序", "零部件排  序", 4, "Function4", "", 0, (int)swCommandItemType_e.swMenuItem); cmd_list.Add(cmdIndex4);
             int cmdIndex5 = cmdGroup.AddCommandItem2("保存成单配置", -1, "按现有配置将零部件保存成独立的零件", "保存成单配置", 5, "Function5", "", 0, (int)swCommandItemType_e.swMenuItem); cmd_list.Add(cmdIndex5);
             int cmdIndex6 = cmdGroup.AddCommandItem2("写入属性", -1, "对装配体的零件写入图号分离的属性和方程式", "写入属性", 6, "Function6", "", 0, (int)swCommandItemType_e.swMenuItem); cmd_list.Add(cmdIndex6);
+            int cmdIndex7 = cmdGroup.AddCommandItem2("带图纸重命名", -1, "重命名零件和工程图，保持关联", "重命名", 6, "Function7", "", 0, (int)swCommandItemType_e.swMenuItem); cmd_list.Add(cmdIndex7);
 
             //int cmdIndex1 = cmdGroup.AddCommandItem2("属性框", -1, "属性框", "属性框", 1, "ShowPMP", "EnablePMP", 0, (int)swCommandItemType_e.swMenuItem);
             int cmdIndex20 = cmdGroup.AddCommandItem2("帮助", -1, "帮助", "帮助", 0, "Sw_MyAddin_Help", "", 0, (int)swCommandItemType_e.swMenuItem);
@@ -382,7 +383,7 @@ namespace Sw_MyAddin
         public void Function4() { SLDASM.Ordering.Function(swApp); }//装配体零部件排序
         public void Function5() { }// 将多配置的装配体及其零部件保存成对应的单配置文件，存在不同文件夹中
         public void Function6() { SLDASM.Equation.Function(swApp); }//遍历零件写入属性和方程式
-        public void Function7() { }// 
+        public void Function7() { SLDDRW.Sw_RenameDrawing.Rename(swApp); }// 
         public void Function8() { }//  
         public void Function9() { }
         public void Function10() { }
